@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* section one */
+.nav{
+    display: flex;
+}
+.nav .text{
+    width: 50% ;
+}
+.nav .text p{
+    color: red;
+    font-size: 17px;
+    width: 300px;
+    margin-left: 18%;
+    margin-top: 13%;
+}
+.nav .img{
+    width: 50%;
+    
+}
+.nav .img .img-amer{
+    width: 550px;
+    position: absolute;
+}
+
+.don{
+    background: #eee;
+    width: 91%;
+    margin-left: -91%;
+    margin-top: 28%;
+    height: 85%;
+    margin-bottom: 10%;
+}
+.don .as {
+    margin-top: 20%;
+    margin-left: 20%;
+    display: flex;
+}
+.don .as h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.don .as p{
+    color: red;
+    font-size: 14px;
+    width: 260px;
+    margin-left: 23%;
+    margin-top: 3%;
+}
+.don .asi {
+    margin-top: 2%;
+    margin-left: 20%;
+    display: flex;
+    margin-bottom: 10%;
+}
+.don .asi  h3{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+.sochel{
+    display: flex;
+    margin-left: 30%;
+}
+
+.sochel img{
+width: 25px;
+padding-left: 10px;
+}
+
+.tow{
+    margin-left: -13%;
+    display: flex;
+    margin-bottom: 5%;
+}
+.tow .tow-top{
+    margin-left: 20%;
+}
+.tow .tow-top h2{
+    color: red;
+}
+.tow .tow-top p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.tow .tow-top  span{
+    font-size: 17px;
+    font-weight: bold;
+}
+.tow .tow-top  strong{
+    color: red;
+}
+.ss{
+    color: #6f6f6e;
+}
