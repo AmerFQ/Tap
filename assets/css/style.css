@@ -99,3 +99,52 @@ padding-left: 10px;
 .ss{
     color: #6f6f6e;
 }
+.tow .tow-top {
+    margin-left: 21%;
+}
+
+@media  (max-width: 750px) {
+    .nav .img .img-amer {
+        width: 268px;
+        position: absolute;
+        margin-left: 29%;
+    }
+    
+    .don {
+        background: #eee;
+        width: 100%;
+        margin-left: -42%;
+        margin-top: 59%;
+        height: 65%;
+        margin-bottom: 10%;
+    }
+    .don .asi h3 {
+        color: red;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .don .as h1 {
+        font-size: 26px;
+        font-weight: bold;
+    }
+    .tow .tow-top h2 {
+        color: red;
+        margin-top: 19px;
+    }
+    .don .as p {
+        color: red;
+        font-size: 14px;
+        width: 260px;
+        margin-left: 7%;
+        margin-top: 3%;
+    }
+    
+    .tow {
+        width: 146%;
+        display: block;
+    }
+    .tow .tow-top {
+        margin-left: 86px;
+    }    
+  }
+  
